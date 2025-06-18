@@ -27,5 +27,4 @@ Her dosyada ülkeler, mutluluk sıralaması, mutluluk skoru ve altı temel fakt�
 - 🔼 **Mutluluğu En Çok Artan / Azalan Ülkeler**
 - 📉 **Mutlulukta Önemli Değişim Yaşayan Ülkeler:** ±0.5 üzeri farklar filtrelenerek
 
-## 📁 Dosya Yapısı
 
